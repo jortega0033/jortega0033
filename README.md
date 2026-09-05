@@ -1,4 +1,4 @@
-# Jake Ortega
+<a href="https://jakeortega.nl"><img src="assets/banner.png" alt="Jake Ortega, Senior Frontend Engineer, Vlaardingen, Netherlands" width="100%"></a>
 
 Senior Frontend Engineer, Vlaardingen, Netherlands.
 
@@ -18,16 +18,31 @@ Senior Frontend Engineer, Vlaardingen, Netherlands.
 
 ## Things I've shipped
 
-**[GrabPitik](https://grabpitik.ph)**: search-first marketplace connecting motorcycle photographers and riders in the Philippines. Next.js, Prisma, PostgreSQL, Xendit.
-
-**[Open Vacancy Radar](https://github.com/jortega0033/open-vacancy-radar)**: local-first Electron app for discovering frontend vacancies and tracking applications. Netherlands roles verified against the IND's own sponsor register.
-
-**[AgentDock](https://github.com/jortega0033/agentdock)**: open-source Electron and daemon boilerplate for desktop apps that run prompts through an already-authenticated Claude Code or Codex session, no API key involved.
-
-**[Dutch Defend](https://dutchdefend.app)**: financial-planning app for expats in the Netherlands, live on Google Play.
-
-**[Rideword](https://rideword.app)**: macOS/Windows teleprompter overlay for developer demos and talks, backed by 594+ automated tests.
-
-**[Flits](https://getflits.app/)**: screenshot-to-calendar app using a schema-validated Gemini vision pipeline, live on Google Play.
+<table>
+  <tr>
+    <td width="240" valign="top"><a href="https://grabpitik.ph"><img src="assets/thumb-grabpitik.png" alt="GrabPitik landing page" width="220"></a></td>
+    <td valign="top"><b><a href="https://grabpitik.ph">GrabPitik</a></b>: search-first marketplace connecting motorcycle photographers and riders in the Philippines. Next.js, Prisma, PostgreSQL, Xendit.</td>
+  </tr>
+  <tr>
+    <td width="240" valign="top"><a href="https://github.com/jortega0033/open-vacancy-radar"><img src="assets/thumb-open-vacancy-radar.png" alt="Open Vacancy Radar job search view" width="220"></a></td>
+    <td valign="top"><b><a href="https://github.com/jortega0033/open-vacancy-radar">Open Vacancy Radar</a></b>: local-first Electron app for discovering frontend vacancies and tracking applications. Netherlands roles verified against the IND's own sponsor register.</td>
+  </tr>
+  <tr>
+    <td width="240" valign="top"><a href="https://github.com/jortega0033/agentdock"><img src="assets/thumb-agentdock.png" alt="AgentDock session dashboard" width="220"></a></td>
+    <td valign="top"><b><a href="https://github.com/jortega0033/agentdock">AgentDock</a></b>: open-source Electron and daemon boilerplate for desktop apps that run prompts through an already-authenticated Claude Code or Codex session, no API key involved.</td>
+  </tr>
+  <tr>
+    <td width="240" valign="top"><a href="https://dutchdefend.app"><img src="assets/thumb-dutch-defend.png" alt="Dutch Defend home screen with defense score" width="220"></a></td>
+    <td valign="top"><b><a href="https://dutchdefend.app">Dutch Defend</a></b>: financial-planning app for expats in the Netherlands, live on Google Play.</td>
+  </tr>
+  <tr>
+    <td width="240" valign="top"><a href="https://rideword.app"><img src="assets/thumb-rideword.png" alt="Rideword landing page" width="220"></a></td>
+    <td valign="top"><b><a href="https://rideword.app">Rideword</a></b>: macOS/Windows teleprompter overlay for developer demos and talks, backed by 594+ automated tests.</td>
+  </tr>
+  <tr>
+    <td width="240" valign="top"><a href="https://getflits.app/"><img src="assets/thumb-flits.png" alt="Flits home screen" width="220"></a></td>
+    <td valign="top"><b><a href="https://getflits.app/">Flits</a></b>: screenshot-to-calendar app using a schema-validated Gemini vision pipeline, live on Google Play.</td>
+  </tr>
+</table>
 
 More on [jakeortega.nl](https://jakeortega.nl).
