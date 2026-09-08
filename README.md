@@ -24,20 +24,28 @@ Senior Frontend Engineer, Vlaardingen, Netherlands.
     <td valign="top"><b><a href="https://grabpitik.ph">GrabPitik</a></b>: search-first marketplace connecting motorcycle photographers and riders in the Philippines. Next.js, Prisma, PostgreSQL, Xendit.</td>
   </tr>
   <tr>
+    <td width="240" valign="top"><a href="https://github.com/jortega0033/pipenzo"><img src="assets/thumb-pipenzo.png" alt="Pipenzo workflow: Refine, Implement, Review, You approve" width="220"></a></td>
+    <td valign="top"><b><a href="https://github.com/jortega0033/pipenzo">Pipenzo</a></b>: early, open source. Electron app, built on AgentDock, that turns a GitHub issue into a small, human-reviewable pull request through Claude Code or Codex, with a publish gate the agent can't call itself.</td>
+  </tr>
+  <tr>
     <td width="240" valign="top"><a href="https://github.com/jortega0033/open-vacancy-radar"><img src="assets/thumb-open-vacancy-radar.png" alt="Open Vacancy Radar job search view" width="220"></a></td>
     <td valign="top"><b><a href="https://github.com/jortega0033/open-vacancy-radar">Open Vacancy Radar</a></b>: local-first Electron app for discovering frontend vacancies and tracking applications. Netherlands roles verified against the IND's own sponsor register.</td>
   </tr>
   <tr>
     <td width="240" valign="top"><a href="https://github.com/jortega0033/agentdock"><img src="assets/thumb-agentdock.png" alt="AgentDock session dashboard" width="220"></a></td>
-    <td valign="top"><b><a href="https://github.com/jortega0033/agentdock">AgentDock</a></b>: open-source Electron and daemon boilerplate for desktop apps that run prompts through an already-authenticated Claude Code or Codex session, no API key involved.</td>
+    <td valign="top"><b><a href="https://github.com/jortega0033/agentdock">AgentDock</a></b>: open-source Electron and daemon boilerplate for desktop apps that run prompts through an already-authenticated Claude Code or Codex session, no API key involved. Backs Open Vacancy Radar and Pipenzo.</td>
+  </tr>
+  <tr>
+    <td width="240" valign="top"><a href="https://rideword.app"><img src="assets/thumb-presentor.png" alt="Presentor landing page" width="220"></a></td>
+    <td valign="top"><b><a href="https://rideword.app">Presentor</a></b>: macOS/Windows teleprompter overlay for developer demos and talks, backed by 594+ automated tests.</td>
+  </tr>
+  <tr>
+    <td width="240" valign="top"><a href="https://github.com/jortega0033/road-pulse-ph"><img src="assets/thumb-revada.png" alt="Revada drive summary screen" width="220"></a></td>
+    <td valign="top"><b><a href="https://github.com/jortega0033/road-pulse-ph">Revada</a></b>: in development. Mobile-first social driving app, capture and review drives with live GPS telemetry, share sessions with a crew, track leaderboards. React Native/Expo, TanStack Start, Firebase.</td>
   </tr>
   <tr>
     <td width="240" valign="top"><a href="https://dutchdefend.app"><img src="assets/thumb-dutch-defend.png" alt="Dutch Defend home screen with defense score" width="220"></a></td>
     <td valign="top"><b><a href="https://dutchdefend.app">Dutch Defend</a></b>: financial-planning app for expats in the Netherlands, live on Google Play.</td>
-  </tr>
-  <tr>
-    <td width="240" valign="top"><a href="https://rideword.app"><img src="assets/thumb-rideword.png" alt="Rideword landing page" width="220"></a></td>
-    <td valign="top"><b><a href="https://rideword.app">Rideword</a></b>: macOS/Windows teleprompter overlay for developer demos and talks, backed by 594+ automated tests.</td>
   </tr>
   <tr>
     <td width="240" valign="top"><a href="https://getflits.app/"><img src="assets/thumb-flits.png" alt="Flits home screen" width="220"></a></td>
