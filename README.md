@@ -1,8 +1,8 @@
 <a href="https://jakeortega.nl"><img src="assets/banner.png" alt="Jake Ortega, Senior Frontend Engineer, Vlaardingen, Netherlands" width="100%"></a>
 
-Senior Frontend Engineer | Angular, React, TypeScript
+Senior Frontend Engineer | Angular, TypeScript and React
 
-10+ years building with Angular, React, TypeScript, Web Components and design systems. Based in Vlaardingen, Netherlands.
+10+ years building enterprise applications and shared UI platforms with Angular, TypeScript, React, Web Components and design systems. Client work for Porsche, Ireland's National Transport Authority, Generali Vitality and Disney. Based in Vlaardingen, Netherlands.
 
 [Portfolio](https://jakeortega.nl) · [Writing](https://jakeortega.nl/blog) · [LinkedIn](https://www.linkedin.com/in/ortegajake00/)
 
@@ -11,10 +11,12 @@ Senior Frontend Engineer | Angular, React, TypeScript
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stencil](https://img.shields.io/badge/Stencil-4C48FF?style=flat-square&logo=stencil&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
@@ -43,7 +45,7 @@ Senior Frontend Engineer | Angular, React, TypeScript
   </tr>
   <tr>
     <td width="240" valign="top"><img src="assets/thumb-revada.png" alt="Revada drive summary screen" width="220"></td>
-    <td valign="top"><b>Revada</b>: in review on Google Play and the App Store. Social driving app.</td>
+    <td valign="top"><b>Revada</b>: pilot. Social driving app with GPS telemetry, shared sessions and leaderboards.</td>
   </tr>
   <tr>
     <td width="240" valign="top"><a href="https://grabpitik.ph"><img src="assets/thumb-grabpitik.png" alt="GrabPitik landing page" width="220"></a></td>
