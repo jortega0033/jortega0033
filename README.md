@@ -45,7 +45,7 @@ Senior Frontend Engineer | Angular, TypeScript and React
   </tr>
   <tr>
     <td width="240" valign="top"><img src="assets/thumb-revada.png" alt="Revada drive summary screen" width="220"></td>
-    <td valign="top"><b>Revada</b>: pilot. Social driving app with GPS telemetry, shared sessions and leaderboards.</td>
+    <td valign="top"><b>Revada</b>: mobile app on the App Store and Google Play. Social driving app with GPS telemetry, shared sessions and leaderboards.</td>
   </tr>
   <tr>
     <td width="240" valign="top"><a href="https://grabpitik.ph"><img src="assets/thumb-grabpitik.png" alt="GrabPitik landing page" width="220"></a></td>
