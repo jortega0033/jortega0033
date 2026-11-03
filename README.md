@@ -44,8 +44,8 @@ Senior Frontend Engineer | Angular, TypeScript and React
     <td valign="top"><b><a href="https://getflits.app/">Flits</a></b>: mobile app on the App Store and Google Play. Turns a screenshot or photo into a calendar event.</td>
   </tr>
   <tr>
-    <td width="240" valign="top"><img src="assets/thumb-revada.png" alt="Revada drive summary screen" width="220"></td>
-    <td valign="top"><b>Revada</b>: mobile app on the App Store and Google Play. Social driving app with GPS telemetry, shared sessions and leaderboards.</td>
+    <td width="240" valign="top"><a href="https://revada.app"><img src="assets/thumb-revada.png" alt="Revada drive summary screen" width="220"></a></td>
+    <td valign="top"><b><a href="https://revada.app">Revada</a></b>: mobile app on the App Store and Google Play. Social driving app with GPS telemetry, shared sessions and leaderboards.</td>
   </tr>
   <tr>
     <td width="240" valign="top"><a href="https://grabpitik.ph"><img src="assets/thumb-grabpitik.png" alt="GrabPitik landing page" width="220"></a></td>
